@@ -1,3 +1,0 @@
-@SendDiscordWebhook.exe "httpsdiscordapp.comapiwebhooks123456789012345678abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890123456" "Message" "MyBotName"
-@echo Message sent...
-@pause
