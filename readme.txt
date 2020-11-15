@@ -1,6 +1,5 @@
 DiscordSendWebhook - Send Discord webhook messages via command line or batch file.
 - Latest version: DiscordSendWebhook_v1.0 (2020-11-15)
-- Download: 
 - By Phoenix125 | http://www.Phoenix125.com | http://discord.gg/EU7pzPs | kim@kim125.com
 
 ----------
@@ -8,7 +7,7 @@ DiscordSendWebhook - Send Discord webhook messages via command line or batch fil
 ----------
 - Send Discord webhook messages via command line or batch file.
 - Easy to use!
-- Supports Discord formatting and default emojies.
+- Supports Discord formatting and default emojis.
 - Send message to multiple Webhook URLs in single command line.
 - Supports custom bot name, custom avatar, and force TTS.
 
@@ -55,15 +54,16 @@ SendTestMessage.bat
 Direct Download Link: http://www.phoenix125.com/share/discordsendwebhook/DiscordSendWebhook.zip
 Source Code (AutoIT): http://www.phoenix125.com/share/discordsendwebhook/DiscordSendWebhook.au3
 GitHub:	              https://github.com/phoenix125/DiscordSendWebhook
+Readme:               http://www.phoenix125.com/share/discordsendwebhook/readme.txt
 
 Website: http://www.Phoenix125.com
 Discord: http://discord.gg/EU7pzPs
 Forum:   https://phoenix125.createaforum.com/index.php
 
 ----- VERSION HISTORY -----
-(2020-11-15) v1.0 AutoIT version - Supports Multiple Webhooks and Discord Formatting & Emojies.
+(2020-11-15) v1.0 AutoIT version - Supports Multiple Webhooks and Discord Formatting & emojis.
 - Easy to use!
-- Supports Discord formatting and default emojies.
+- Supports Discord formatting and default emojis.
 - Send message to multiple Webhook URLs in single command line.
 - Supports custom bot name, custom avatar, and force TTS.
 
@@ -86,7 +86,7 @@ Note! Messages over 2000 characters will be cropped.
 Note! Only works with default Discord Emojis :(
 
 (2019-05-12) v0.5 Initial Release (Python Version)
-- Does not support Discord formatting or emojies.
+- Does not support Discord formatting or emojis.
 - Based almost entirely on kyb3r's script, "Discord Webhook Embeds for Python" | https://github.com/kyb3r/dhooks
 - Instructions: SendDiscordWebhook.exe {URL} {Message} {UserName}
 - Example: DiscordSendWebhook.exe "https://discordapp.com/api/webhooks/123456789012345678/abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890123456" "Message" "MyBotName"

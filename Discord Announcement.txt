@@ -1,0 +1,17 @@
+:siren: __**DiscordSendWebhook**__ ***v1.0*** Now supports Discord formatting & emojies. Send to multiple Webhooks.
+DiscordSendWebhook - Send Discord webhook messages via command line or batch file.
+- Latest version: DiscordSendWebhook_v1.0 (2020-11-15)
+
+***FEATURES***
+- Send Discord webhook messages via command line or batch file.
+- Easy to use!
+- Supports Discord formatting and default emojies.
+- Send message to multiple Webhook URLs in single command line.
+- Supports custom bot name, custom avatar, and force TTS.
+
+***DOWNLOAD LINKS***
+Direct Download Link: http://www.phoenix125.com/share/discordsendwebhook/DiscordSendWebhook.zip
+Source Code (AutoIT): http://www.phoenix125.com/share/discordsendwebhook/DiscordSendWebhook.au3
+GitHub:               https://github.com/phoenix125/DiscordSendWebhook
+
+Readme:               http://www.phoenix125.com/share/discordsendwebhook/readme.txt
