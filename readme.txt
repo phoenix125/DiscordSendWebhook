@@ -1,6 +1,5 @@
 DiscordSendWebhook - Send Discord webhook messages via command line or batch file.
 - Latest version: DiscordSendWebhook_v1.0 (2020-11-15)
-- Download: 
 - By Phoenix125 | http://www.Phoenix125.com | http://discord.gg/EU7pzPs | kim@kim125.com
 
 ----------
